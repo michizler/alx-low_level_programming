@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Description: Print a string using puts function
+ * main - Entry point
  *
- * If Return is 0, then success.
+ * Return: Always 0 (Success)
  */
 
 int main(void)

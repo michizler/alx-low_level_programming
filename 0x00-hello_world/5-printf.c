@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Description: Printing to standard output using printf
+ * main - Entry point
  *
- * If return 0, then success.
+ * Return: Always 0 (Success)
  */
 
 int main(void)

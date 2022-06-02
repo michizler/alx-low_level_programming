@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * Description: Print sizes of different datatypes to standard output
+ * main - Entry point
  *
- * If return = 0, then success
- */
+ * Return: Always 0 (Success)
+ **/
 
 int main(void)
 {
