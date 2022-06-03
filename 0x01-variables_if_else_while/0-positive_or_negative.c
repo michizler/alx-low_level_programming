@@ -4,7 +4,11 @@
 
 /* Determination of Random positive of negative numbers */
 
-/* betty_doc.pl for function main to make it linter complaint*/
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Sucess)
+ */
 
 int main(void)
 {
