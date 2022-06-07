@@ -8,6 +8,8 @@
 
 void print_alphabet(void)
 {
+	int putchar(char c);
+
 	int firstletter, i;
 
 	for (firstletter = 97, i = 1; i < 27; i++, firstletter++)
