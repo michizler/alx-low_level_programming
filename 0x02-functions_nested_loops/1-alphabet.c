@@ -1,3 +1,9 @@
+/**
+ * void print_alphabet(void) - Return type void
+ * args: Has no args (void)
+ * Description: Prints lowercase alphabets
+ */
+
 void print_alphabet(void)
 {
 	int putchar(int c);
