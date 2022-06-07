@@ -19,8 +19,10 @@ void print_alphabet(void)
 
 int main(void)
 {
-	print_alphabet();
+	int putchar(int c);
 
+	print_alphabet();
+	
 	putchar(10);
 	return (0);
 }
