@@ -14,13 +14,12 @@ void print_alphabet(void)
 
 	for (firstletter = 97, i = 1; i < 27; i++, firstletter++)
 		putchar(firstletter);
+	putchar(10);
 
 }
 
 int main(void)
 {
-	int putchar(int c);
-
 	print_alphabet();
 	
 	putchar(10);
