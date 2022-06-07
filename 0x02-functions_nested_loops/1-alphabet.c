@@ -8,7 +8,7 @@
 
 void print_alphabet(void)
 {
-	int putchar(char c);
+	int putchar(int c);
 
 	int firstletter, i;
 
