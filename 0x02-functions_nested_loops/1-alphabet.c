@@ -1,11 +1,3 @@
-#include "main.h"
-
-/**
- * main - Entry point
- * Description - Prints lowercase alphabets
- * Return: Always 0 (Sucess)
- */
-
 void print_alphabet(void)
 {
 	int putchar(int c);
@@ -18,10 +10,3 @@ void print_alphabet(void)
 
 }
 
-int main(void)
-{
-	print_alphabet();
-	
-	putchar(10);
-	return (0);
-}
