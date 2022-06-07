@@ -1,11 +1,14 @@
 /**
- * void print_alphabet(void) - Return type void
- * args: Has no args (void)
+ * print_alphabet - Return type void
+ * args*: No arguments (void)
+ *
  * Description: Prints lowercase alphabets
+ *
  */
 
 void print_alphabet(void)
 {
+
 	int putchar(int c);
 
 	int firstletter, i;
