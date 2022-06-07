@@ -3,7 +3,7 @@
  * @n: parameter ascii character
  * Return: integer value and ascii character
  *
- * Description: Prints sign of nummbers in relation to position on number scale.
+ * Description: Prints sign of numbers in relation to position on number scale.
  *
  */
 
