@@ -1,15 +1,17 @@
 /**
  * _abs - Absolute value function
- * @int: Any integer value
+ * @i: Any integer value
  * Return: Always integer
  *
  * Description: prints absolute value of any number
  *
  */
 
-int _abs(int)
+int _abs(int i)
 {
-	int j;
+	int abs(int j);
 
-	return (abs(j));
+	abs(i);
+
+	return (i);
 }
