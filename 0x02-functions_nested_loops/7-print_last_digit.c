@@ -13,7 +13,9 @@ int print_last_digit(int n)
 
 	int _putchar(int c);
 
-	ret = n % 10;
+	int abs(int j);
+
+	ret = abs(n % 10);
 	if (ret == 0)
 		_putchar(48);
 	else if (ret == 1)
