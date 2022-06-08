@@ -11,7 +11,7 @@ int _abs(int i)
 {
 	int abs(int j);
 
-	abs(i);
+	i = abs(j);
 
 	return (i);
 }
