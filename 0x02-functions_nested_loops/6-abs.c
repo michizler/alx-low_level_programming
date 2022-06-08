@@ -9,11 +9,7 @@
 
 int _abs(int i)
 {
-	int abs(int j);
+	int abs(int i);
 
-	int j;
-
-	i = abs(j);
-
-	return (i);
+	return (abs(i));
 }
