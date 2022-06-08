@@ -7,6 +7,8 @@
 
 void jack_bauer(void)
 {
+	int _putchar(int c);
+
 	int a;
 
 	int b;

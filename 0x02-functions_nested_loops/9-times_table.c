@@ -7,6 +7,8 @@
 
 void times_table(void)
 {
+	int _putchar(int c);
+
 	int a;
 
 	int b;
