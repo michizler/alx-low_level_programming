@@ -8,6 +8,8 @@ void print_numbers(void)
 {
 	int firstnumber, i;
 
+	int _putchar(char c);
+
 	for (firstnumber = 48, i = 0; i < 10; firstnumber++, i++)
 	{
 		_putchar(firstnumber);
