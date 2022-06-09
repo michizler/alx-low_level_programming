@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * print_numbers - prints integers 0-9
  * args: void
@@ -9,8 +7,6 @@
 void print_numbers(void)
 {
 	int firstnumber, i;
-
-	int _putchar(int c);
 
 	for (firstnumber = 48, i = 0; i < 10; firstnumber++, i++)
 	{
