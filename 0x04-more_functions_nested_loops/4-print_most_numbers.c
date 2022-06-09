@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * print_most_numbers - prints natural numbers 0-9
  * excluding 2 & 4 to standard output
