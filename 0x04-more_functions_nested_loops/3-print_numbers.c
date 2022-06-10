@@ -1,18 +1,19 @@
-/**
- * print_numbers - prints integers 0-9
- * args: void
- * Return: Always 0 (Success)
- */
+#include "main.h"
 
+/**
+ * print_numbers - Prints 0 to 9
+ *
+ * Return: The numbers 0 - 9
+ */
 void print_numbers(void)
 {
-	int firstnumber, i;
+char n = 0;
 
-	int _putchar(char c);
+while (n <= 9)
+{
+_putchar('0' + n);
+n++;
 
-	for (firstnumber = 48, i = 0; i < 10; firstnumber++, i++)
-	{
-		_putchar(firstnumber);
-	}
-	_putchar(10);
+}
+_putchar('\n');
 }
