@@ -4,6 +4,7 @@
 /**
  * _strlen - calculates the function of a string
  * @s: character argument/string
+ * Return: Always integer value
  */
 
 int _strlen(char *s)
