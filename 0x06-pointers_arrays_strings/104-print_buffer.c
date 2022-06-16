@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdio.h>
+
 /**
 *print_buffer -  C function that prints the content of an
 *  inputted number of bytes from a buffer.
@@ -14,13 +16,14 @@
 *@b: number of bytes
 *@size: size of the byte
 */
+
 void print_buffer(char *b, int size)
 {
 int i = 0, j;
 
 if (size < 0)
 {
-printf('\n');
+printf("\n");
 return;
 }
 
@@ -45,7 +48,7 @@ printf("%c", b[j]);
 else
 printf(".");
 }
-printf('\n');
+printf("\n");
 i += 10;
 }
 }
