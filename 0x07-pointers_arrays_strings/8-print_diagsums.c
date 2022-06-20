@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
  * print_diagsums - prints sum of integers of a diagonal square matrix
  * @a: array matrix
