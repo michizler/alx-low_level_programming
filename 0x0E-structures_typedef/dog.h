@@ -1,5 +1,12 @@
 #ifndef DOG_H
 #define DOG_H
+
+/**
+ * dog_t - type name for struct dog
+ */
+
+typedef struct dog dog_t;
+
 /**
  * struct dog - attributes of a domestic dog
  * @name: first attribute
